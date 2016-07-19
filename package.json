@@ -1,0 +1,22 @@
+{
+  "name": "hyperterm-install-devtools",
+  "version": "1.0.0",
+  "description": "Install Chrome devtools extension for HyperTerm",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhen0409/hyperterm-install-devtools.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "install",
+    "devtools",
+    "electron-devtools-installer"
+  ],
+  "author": "Jhen <developer@jhen.me>",
+  "license": "MIT",
+  "dependencies": {
+    "electron-devtools-installer": "^1.1.5"
+  }
+}
