@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-install-devtools",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Install DevTools extension via Chrome Web Store on HyperTerm",
   "main": "index.js",
   "scripts": {},
