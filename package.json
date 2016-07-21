@@ -1,7 +1,7 @@
 {
   "name": "hyperterm-install-devtools",
   "version": "1.0.0",
-  "description": "Install Chrome devtools extension for HyperTerm",
+  "description": "Install DevTools extension via Chrome Web Store on HyperTerm",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -11,7 +11,9 @@
   "keywords": [
     "hyperterm",
     "install",
+    "chrome",
     "devtools",
+    "extension",
     "electron-devtools-installer"
   ],
   "author": "Jhen <developer@jhen.me>",

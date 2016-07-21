@@ -1,6 +1,6 @@
 # hyperterm-install-devtools
 
-> Install Chrome devtools extension for [HyperTerm](https://hyperterm.org), used [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer).
+> Install DevTools extension via Chrome Web Store on [HyperTerm](https://hyperterm.org), used [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer).
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/3001525/16935410/cbc9aa9e-4d91-11e6-9d59-61317b6644d1.png)
 
