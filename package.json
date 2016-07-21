@@ -19,6 +19,6 @@
   "author": "Jhen <developer@jhen.me>",
   "license": "MIT",
   "dependencies": {
-    "electron-devtools-installer": "^1.1.5"
+    "electron-devtools-installer": "^2.0.0"
   }
 }
