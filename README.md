@@ -4,7 +4,7 @@
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/3001525/16935410/cbc9aa9e-4d91-11e6-9d59-61317b6644d1.png)
 
-> Use [React Developer Tools](react developer tools not working) on web page (Open DevTools by [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools))
+> Use [React Developer Tools](https://github.com/facebook/react-devtools) on web page (Open DevTools by [hyperterm-open-devtools](https://www.npmjs.com/package/hyperterm-open-devtools))
 
 ## Install
 
